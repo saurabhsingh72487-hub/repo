@@ -1,3 +1,5 @@
 # repo- my first repo
-Today I start my FullStack journey
-I cancode frontend basics
+# Today I start my FullStack journey
+# I can code frontend basics
+# I Promise myself I am working as a software developer at Google one dey
+
