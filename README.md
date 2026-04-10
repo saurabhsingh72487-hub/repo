@@ -1,2 +1,2 @@
 # repo- my first repo
-Today I start my FullStack ourney
+Today I start my FullStack journey
