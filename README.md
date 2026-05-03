@@ -1,2 +1,1 @@
-# Today I start Learning GitHub from scratch  ( Basic to Advance )
-
+# My first repo on GitHub
